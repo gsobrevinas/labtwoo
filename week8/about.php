@@ -4,7 +4,7 @@
     <link rel="icon" type="image/x-icon" href="/lab3/ci4/public/Images/twitchicon2.png">
     <link rel="stylesheet" type="text/css" href="index.css">
     <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <style>
 /*about page css */
@@ -91,7 +91,7 @@ span{
 
     <section class="about-us">
       <div class="about">
-          <img src="/lab3/ci4/public/Images/gian.jpg" class="pic">
+          <img src="./images/gian.jpg" class="pic">
         <div class="text">
           <h2>Personal Information</h2>
           <h5>Front-end Developer & <span>Designer</span></h5>
