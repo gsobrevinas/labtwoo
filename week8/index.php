@@ -1,0 +1,45 @@
+<!doctype html>
+<head>
+    <title>Gian's Site</title>
+    <link rel="icon" type="image/x-icon" href="/lab3/ci4/public/Images/twitchicon2.png">
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <link rel="stylesheet" type="text/css" href="type.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+
+<ul>
+  <li><a href="index.php">Home</a></li>
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Socials</a>
+    <div class="dropdown-content">
+      <a href="https://github.com/gsobrevinas">Github</a>
+      <a href="https://steamcommunity.com/id/yukisoba_steam/">Steam</a>
+      <a href="https://www.instagram.com/g.s0bs/">Instagram</a>
+    </div>
+  </li>
+  <li><a href="about.php">About</a></li>
+  <li><a href="form.php">Forms</a></li>
+  <li style="float:right"><a class="active" href="reference.php">References</a></li>
+</ul>
+
+<div class="wrapper">
+  <div class="typing-demo">
+    Hello There!
+  </div>
+</div>
+
+<div>
+  <?php
+  echo "This page is under development, also this is php"
+  ?>
+</div>
+
+<div>
+    <em>&copy; WEBPROG 2024</em>
+</div>
+
+</body>
+
+</html>
