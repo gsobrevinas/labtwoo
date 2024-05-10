@@ -76,7 +76,7 @@ span{
 </style>
 <body>
     <ul>
-        <li><a href="index.html">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li class="dropdown">
           <a href="javascript:void(0)" class="dropbtn">Socials</a>
           <div class="dropdown-content">
@@ -85,8 +85,9 @@ span{
             <a href="https://www.instagram.com/g.s0bs/">Instagram</a>
           </div>
         </li>
-        <li><a href="about.html">About</a></li>
-        <li style="float:right"><a class="active" href="https://ideal-acorn-x696gp5547qhp9w4-80.app.github.dev/lab3/ci4/public/references">References</a></li>
+        <li><a href="about.php">About</a></li>
+        <li><a href="form.php">Forms</a></li>
+        <li style="float:right"><a class="active" href="">References</a></li>
       </ul>
 
     <section class="about-us">
